@@ -10,5 +10,5 @@ An IGBT power module functions as a switch and can be used to switch electrical 
 The IGBT [power module](https://www.shunlongwei.com) is becoming the preferred device for high power applications due to its ability to enhance switching, temperature, weight and cost performance.
 
 ### IGBT Modules
-(SKIM455GD12T4D1)[https://sites.google.com/view/skim455gd12t4d1/]
+[SKIM455GD12T4D1](https://sites.google.com/view/skim455gd12t4d1/)
 
